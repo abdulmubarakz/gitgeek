@@ -1,4 +1,4 @@
-:# gitgeek
+# gitgeek
 justfortrainingpurpose:)
 
 Hi all!
