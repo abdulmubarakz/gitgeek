@@ -1,4 +1,4 @@
-# gitgeek
+:# gitgeek
 justfortrainingpurpose:)
 
 Hi all!
@@ -8,3 +8,7 @@ Hi all!
 Welcome to my [GitGeek!](https://abdulmubarakz.github.io/gitgeek/)
 
 # Ok you ready?!  :sweat:
+
+1. First list
+1. Second list
+1. Third list
